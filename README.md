@@ -1,4 +1,4 @@
-# spike_analyze
+# Automatic label algorithm for dendritic spines
 ### Abstract
 In neurobiology, the development and demise of dendritic spines are correlated with memory formation. Traditionally, the researcher labeled the dendritic spines manually, and the existing automatic labeling methods are only appropriate for images captured with high resolution. The brain image of the living brain captured by the two-photon microscope can not be automatically analyzed perfectly due to 1. environmental noises and 2. low resolution in a relatively deep area of the brain. As a result, this article aims to propose a set of algorithms for automatic spine marking, which can effectively detect the location and approximate classification of most spines.
 ### Method
